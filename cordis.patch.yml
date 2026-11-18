@@ -1,0 +1,3 @@
+- insert:
+    - id: review-queue
+      name: 'dsh-annotate-it'
