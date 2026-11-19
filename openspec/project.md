@@ -23,8 +23,8 @@
 
 ### Фаза 1 — витрина и охват
 
-- [ ] Демо-GIF (20–30 сек) в README.
-- [ ] Плагин-индекс для вкладки Discover (`walorne/dsh-plugin-index`).
+- [x] Демо-GIF (20–30 сек) в README.
+- [x] Плагин-индекс для вкладки Discover (`walorne/dsh-plugin-index`).
 - [ ] Посты: r/DeepSeek, r/LocalLLaMA, Show HN, X.
 
 ### Фаза 2 — полировка UX
