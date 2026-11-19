@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Annotate it",
-    "description": "Annotate chats and documents: mark passages, stack comments and quick replies, and send the whole review as one message.",
+    "description": "Annotate chats and documents in DeepSeek Harness: select a passage, add a note, comment or quick reply, highlight the text, and send the whole review as one message. Works in the chat and in right-sidebar documents — markdown, code, PDF, Office.",
     "detail": "docs/DETAIL.md"
   }
 }

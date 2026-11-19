@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "标注",
-    "description": "标注聊天和文档：选中片段，累积注释与快捷回复，一次性发送整份评审。",
+    "description": "为 DeepSeek Harness 的聊天和文档添加标注、笔记和评论：选中片段，添加快捷回复或自己的评论，高亮文本，并一次性发送整份评审。支持右侧面板中的 markdown、代码、PDF 和 Office。",
     "detail": "docs/DETAIL.zh.md"
   }
 }
